@@ -1,4 +1,5 @@
-export const server = "http://localhost:5000";
+// export const server = "http://localhost:5000";
+export const server = "https://squareboat-job-website.herokuapp.com";
 
 const apiList = {
   login: `${server}/authorize/login`,
